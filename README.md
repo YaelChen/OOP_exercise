@@ -1,2 +1,2 @@
 # OOP_exercise
-a python classes exercise from self.py course
+a python Classes exercise from self.py course
